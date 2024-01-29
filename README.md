@@ -1,2 +1,2 @@
 # *Particle Explosion*
-* Simple JS script to shown exploding particle where you click
+* Simple JS script to shown exploding particles where you click
